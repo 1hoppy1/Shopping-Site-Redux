@@ -1,6 +1,9 @@
-# Shop Shop
+# Shop Shop with Redux
 
+Heroku:
 https://shopping-site-jim-redux.herokuapp.com/
+
+GitHub:
 https://github.com/1hoppy1/Shopping-Site-Redux
 
 ## Table of Contents
